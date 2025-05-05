@@ -1,0 +1,78 @@
+h1 {
+    font-family: californian FB;
+    /* Ändert die Schriftart */
+    color: #fffce6;
+    text-align: center;
+
+}
+
+.Logo {
+    width: 28%;
+    padding-top: 10px;
+    position: fixed;
+    padding-left: 50em;
+
+
+
+}
+
+header {
+    background-color: #682481;
+    padding-top: 10px;
+    height: 150px;
+    width: 100%;
+}
+
+/* der Header bleibt immer so gross wie die Webseite /*
+
+
+/*  */
+.Navigation-links {
+    list-style: inline;
+    display: flex;
+    gap: 20px;
+    position: fixed;
+    color: #fffce6;
+
+
+}
+
+nav a {
+    color: white;
+
+}
+
+
+
+
+h1 {
+    font-family: Californian FB;
+    font-size: 60px;
+
+}
+
+main p {
+    font-family: Cambria;
+
+}
+
+
+
+section img {
+    width: 950px;
+    height: auto;
+    position: left;
+    position: relative;
+    margin-left: 1px;
+    /* auto ist dafür da, damit sich die Dimensionen des Bildes nicht weird aussehen */
+}
+
+.left colone {
+    width: 50px;
+    height: auto;
+
+}
+
+body {
+    background-color: lightgrey;
+}
